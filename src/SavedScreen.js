@@ -184,18 +184,18 @@ const styles = StyleSheet.create({
     color:'white'
   },
   clearAllButton: {
-    backgroundColor: 'red', // Customize the button style
+    backgroundColor: 'red', 
     padding: 10,
     borderRadius: 5,
     alignItems: 'center',
     marginTop: 10,
   },
   clearAllButtonText: {
-    color: 'black', // Customize the button text style
+    color: 'black', 
     fontWeight: '600',
   },
   clearAllButtonTextdark:{
-    color: 'white', // Customize the button text style
+    color: 'white',
     fontWeight: '600',
   },
   clearAllBtn:{

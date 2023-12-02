@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 import Modal from 'react-native-modal';
-import Icon from 'react-native-vector-icons/FontAwesome'; // You can choose any available icon set
+import Icon from 'react-native-vector-icons/FontAwesome';
 import { useNavigation } from '@react-navigation/native';
 
 const MenuModal = ({ isVisible, toggleMenu, isDarkMode }) => {

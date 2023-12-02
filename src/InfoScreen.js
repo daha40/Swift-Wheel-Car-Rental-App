@@ -2,7 +2,7 @@ import { View, Text, StyleSheet, SafeAreaView ,Image, TouchableOpacity } from 'r
 import React, { useState } from 'react';
 import data from "./dataset/vehicles.json";
 import { useNavigation } from '@react-navigation/native';
-import Icon from 'react-native-vector-icons/FontAwesome'; // Use appropriate icon from the library
+import Icon from 'react-native-vector-icons/FontAwesome'; 
 import Toast from 'react-native-toast-message';
 import { useSavedCars } from './SavedCarsContext';
 
