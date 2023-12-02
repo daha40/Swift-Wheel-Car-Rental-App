@@ -1,0 +1,154 @@
+{
+    "vehicles": [
+      {
+        "id": 1,
+        "make": "Tesla",
+        "model": "Model X",
+        "type": "Electric",
+        "transmission": "Automatic",
+        "price_per_day": 120,
+        "description": "The Tesla Model X is an all-electric SUV that combines performance, safety, and utility. With falcon-wing doors and advanced autopilot features, it's a cutting-edge electric vehicle.",
+        "properties": {
+          "motor_power_hp": 670,
+          "fuel_type": "Electric",
+          "engine_capacity_cc": 0,
+          "traction": "AWD"
+        }
+      },
+      {
+        "id": 2,
+        "make": "Nissan",
+        "model": "Leaf",
+        "type": "Electric",
+        "transmission": "Automatic",
+        "price_per_day": 120,
+        "description": "The Nissan Leaf is a popular electric hatchback with a focus on efficiency and sustainability. It's an ideal choice for those who prioritize eco-friendly driving.",
+        "properties": {
+          "motor_power_hp": 147,
+          "fuel_type": "Electric",
+          "engine_capacity_cc": 0,
+          "traction": "FWD"
+        }
+      },
+      {
+        "id": 3,
+        "make": "Ford",
+        "model": "Escape",
+        "type": "SUV",
+        "transmission": "Automatic",
+        "price_per_day": 85,
+        "description": "The Ford Escape is a compact SUV that combines style, performance, and advanced technology. It's designed for urban adventures and offers a fun driving experience.",
+        "properties": {
+          "motor_power_hp": 181,
+          "fuel_type": "Hybrid",
+          "engine_capacity_cc": "2000 CC",
+          "traction": "FWD"
+        }
+      },
+      {
+        "id": 4,
+        "make": "Ford",
+        "model": "Focus",
+        "type": "Hatchback",
+        "transmission": "Automatic",
+        "price_per_day": 70,
+        "description": "The Ford Focus, known for its sharp handling and expressive design, offers an exciting driving experience. It's a versatile hatchback that's both efficient and fun to drive.",
+        "properties": {
+          "motor_power_hp": 150,
+          "fuel_type": "Petrol",
+          "engine_capacity_cc": "2000 CC",
+          "traction": "FWD"
+        }
+      },
+      {
+        "id": 5,
+        "make": "Peugeot",
+        "model": "3008",
+        "type": "SUV",
+        "transmission": "Automatic",
+        "price_per_day": 100,
+        "description": "Discover the PEUGEOT SUV 3008 with its unique design with innovative SUV codes. Its characteristic and original design combines power and elegance with dynamism and flowing lines.",
+        "properties": {
+          "motor_power_hp": 120,
+          "fuel_type": "Diesel",
+          "engine_capacity_cc": "1560 CC",
+          "traction": "4x2"
+        }
+      },
+      {
+        "id": 6,
+        "make": "Honda",
+        "model": "Odyssey",
+        "type": "MPV",
+        "transmission": "Automatic",
+        "price_per_day": 75,
+        "description": "The Honda Odyssey is a family-friendly minivan with spacious interiors and advanced safety features. It provides comfort and convenience for long journeys with the family.",
+        "properties": {
+          "motor_power_hp": 280,
+          "fuel_type": "Petrol",
+          "engine_capacity_cc": "3500 CC",
+          "traction": "FWD"
+        }
+      },
+      {
+        "id": 7,
+        "make": "Toyota",
+        "model": "RAV4",
+        "type": "SUV",
+        "transmission": "Automatic",
+        "price_per_day": 90,
+        "description": "The Toyota RAV4 is a popular SUV known for its reliability and versatile features. It offers a comfortable ride both on and off the road, making it a great choice for various adventures.",
+        "properties": {
+          "motor_power_hp": 203,
+          "fuel_type": "Hybrid",
+          "engine_capacity_cc": "2500 CC",
+          "traction": "AWD"
+        }
+      },
+      {
+        "id": 8,
+        "make": "Jeep",
+        "model": "Wrangler",
+        "type": "Off-road",
+        "transmission": "Manual",
+        "price_per_day": 110,
+        "description": "The Jeep Wrangler is an iconic off-road vehicle with rugged capabilities. It's designed for adventure seekers who want to explore challenging terrains and enjoy open-air driving.",
+        "properties": {
+          "motor_power_hp": 285,
+          "fuel_type": "Petrol",
+          "engine_capacity_cc": "3600 CC",
+          "traction": "4x4"
+        }
+      },
+      {
+        "id": 9,
+        "make": "Fiat",
+        "model": "Fiorino",
+        "type": "MPV",
+        "transmission": "Manual",
+        "price_per_day": 50,
+        "description": "Fiat Fiorino is a compact MPV that offers a practical and economical solution for city driving and small cargo transport. Its compact dimensions make it ideal for navigating narrow streets.",
+        "properties": {
+          "motor_power_hp": 95,
+          "fuel_type": "Petrol",
+          "engine_capacity_cc": "1300 CC",
+          "traction": "FWD"
+        }
+      },
+      {
+        "id": 10,
+        "make": "Honda",
+        "model": "CR-V",
+        "type": "SUV",
+        "transmission": "Automatic",
+        "price_per_day": 95,
+        "description": "The Honda CR-V is a well-rounded SUV with a reputation for fuel efficiency and comfort. Its spacious interior and advanced safety features make it an excellent family vehicle.",
+        "properties": {
+          "motor_power_hp": 190,
+          "fuel_type": "Petrol",
+          "engine_capacity_cc": "2000 CC",
+          "traction": "AWD"
+        }
+      }
+    ]
+}
